@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+    background-image: url(bg1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.head{
+    size: 75%;
+    height: 50px;
+    padding: 15px;
+    text-shadow: black;
+    
+}
+
+
+.h1{
+    size: 20%;
+    float: right;
+}
+.pic{
+    margin-right: 1000px;
+    border: 5px solid #000000;
+    margin: 50px;
+    height: 100px;
+    width: 100px;
+    float: right;
+    background-color: rgb(250, 242, 242);
+    
+}
